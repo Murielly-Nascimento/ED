@@ -1,7 +1,10 @@
 # ED
 Repositório dedicado às matérias de Programação Procedural
 
-## ED1
+## IPC
+Trabalho de Introdução à Programação de Computadores que consiste num menu para conversão de sistemas de representações numéricas.
+
+## ED-1
 Repositório dedicado a guardar as provas e trabalhos de Estrutura de Dados 1
 
 ### Trabalho
