@@ -1,0 +1,84 @@
+------------------
+Índice:
+Chat 1 
+Comme 11 
+De 9 
+Et 4 8 13 
+Je 10 
+Le 1 
+Lorsque 6 
+Mêlés 5 
+Nagent 15 
+Profond 12 
+Retiens 3 
+Son 10 
+Ta 7 
+Un 14 
+Viens 2 
+aimable 11 
+air 14 
+amoureux 2 
+autour 15 
+beau 2 
+beaux 4 
+brun 15 
+bête 11 
+caressent 6 
+chat 2 
+coeur 2 
+comme 12 
+corps 9 15 
+coupe 12 
+d'agate 5 
+dangereux 14 
+dans 4 
+dard 12 
+de 3 5 15 
+des 13 
+doigts 6 
+dos 7 
+du 8 
+en 10 
+esprit 10 
+et 5 7 12 12 
+femme 10 
+fend 12 
+froid 12 
+griffes 3 
+jusques 13 
+la 13 
+laisse-moi 4 
+le 11 
+les 3 
+loisir 6 
+ma 8 10 
+main 8 
+mes 6 
+mon 2 2 
+métal 5 
+palper 9 
+parfum 14 
+patte 3 
+pieds 13 
+plaisir 8 
+plonger 4 
+que 8 
+regard 10 
+s'enivre 8 
+son 15 
+subtil 14 
+sur 2 
+ta 3 
+tes 4 
+tien 11 
+ton 7 9 
+tête 7 13 
+un 12 14 
+vois 10 
+yeux 4 
+à 6 13 
+élastique 7 
+électrique 9 
+Número total de palavras:93
+Número de palavras distintas:79
+Tempo de construção do índice usando árvore AVL: 0.000449 segundos
