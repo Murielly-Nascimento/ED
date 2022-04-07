@@ -20,3 +20,6 @@ As listas são uma revisão do material visto em Introdução a Programação de
 ### Provas
 
 Foram realizadas quatro provas durante o curso, estando as correções descritas em arquivos separados dentro de cada diretório
+
+# ED-2
+Repositório dedicado a guardar códigos e trabalhos da matéria de Algoritmos e Estruturas de Dados II. A matéria foi ministrada pela professora Maria Adriana, do curso Ciências da Computação, durante o período 2022/1
